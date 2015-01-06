@@ -11,7 +11,7 @@ import java.util.logging.Logger;
  */
 /**
  *
- * @author Cade
+ * @author Cade Ayres
  */
 public class Window extends javax.swing.JFrame {
 
