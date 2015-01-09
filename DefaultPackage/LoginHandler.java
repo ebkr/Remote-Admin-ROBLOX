@@ -21,7 +21,7 @@ public class LoginHandler {
         URL url;
         URLConnection urlConn;
         DataOutputStream printout;
-        url = new URL ("http://ebkrrbx.heliohost.org/CheckLogin.php");
+        url = new URL ("http://example.com/ExPHP.php");
         urlConn = url.openConnection();
         urlConn.setDoInput (true);
         urlConn.setDoOutput (true);
